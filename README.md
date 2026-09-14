@@ -8,3 +8,6 @@
 > add openai, streamlit, python-dotenv
 4. install above in python
 >pip install -r requirements.txt
+5. create .env file
+6. ensure that .env is grayed out
+7. add secrets to .env : OPENAI_API_KEY="..."
